@@ -17,22 +17,13 @@
   position: relative;
 }
 
-.nav__message_notification {
-  background-color: tomato;
-  width: 30px;
-  height: 30px;
-  border-radius: 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
+.nav__message-notification {
   position: absolute;
   left: 15px;
   bottom: 15px;
 }
 
-.nav__setting_notification {
+.nav__setting-notification {
   background-color: tomato;
   width: 5px;
   height: 5px;
