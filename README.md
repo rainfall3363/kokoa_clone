@@ -1,3 +1,3 @@
 # Kokoa clone
 
-Cloning kakao talk app to browser by using HTML/CSS
+Cloning kakao talk app to browser using HTML/CSS
